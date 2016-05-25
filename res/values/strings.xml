@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TroikaDumper</string>
+    <string name="action_view_dump_list">View dumps</string>
+    <string name="action_open_diff_tool">Diff tool</string>
+    <string name="action_write_dump">Write dump</string>
+    <string name="error_no_nfc">No NFC adapter on your device</string>
+    <string name="error_nfc_is_disabled">Enable NFC in settings and restart this app</string>
+    <string name="dumplist_title">All your dumps</string>
+    <string name="dumplist_subtitle">are belong to us</string>
+</resources>
