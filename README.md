@@ -27,4 +27,4 @@ NFC чип должен быть произодства NXP [wikipedia.org/wiki/
 
 ### Интерфейс программы 
 
-[TroikdDumper интерфейс](https://habrastorage.org/getpro/habr/post_images/75d/ec7/447/75dec7447e0d68399fccdd549a79e998.png)
+![TroikdDumper интерфейс](https://habrastorage.org/getpro/habr/post_images/75d/ec7/447/75dec7447e0d68399fccdd549a79e998.png)
