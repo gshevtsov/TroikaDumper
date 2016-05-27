@@ -1,6 +1,6 @@
 TroikaDumper
 =======
-<img src="https://habrastorage.org/getpro/habr/post_images/eb6/453/bad/eb6453bad2e1549fcdc53e73f34bc6ef.png" width="120" alt="TroikaDumper logo" />
+<img src="https://habrastorage.org/getpro/habr/post_images/eb6/453/bad/eb6453bad2e1549fcdc53e73f34bc6ef.png" align="left" width="120" alt="TroikaDumper logo" />
 
 Приложение TroikaDumper позволяет читать, сохранять и восстанавливать записанное состояние памяти карты Тройка.  
 Для использования необходим телефон с **версией Android ≥ 4.4** и NFC чипом **поддерживающим карты Mifare.**
