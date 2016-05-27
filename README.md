@@ -31,4 +31,3 @@ NFC чип должен быть произодства NXP [wikipedia.org/wiki/
 
 ![TroikdDumper интерфейс](http://i.imgur.com/GBIf1fW.png)
 
-<font color="white">Сасайте писос, лолки</font>
