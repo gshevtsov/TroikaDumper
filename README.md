@@ -31,4 +31,4 @@ NFC чип должен быть произодства NXP [wikipedia.org/wiki/
 
 ![TroikdDumper интерфейс](http://i.imgur.com/GBIf1fW.png)
 
-[comment]: <> (prove gshevtsov on 4PDA.ru)
+<!-- prove gshevtsov on 4PDA.ru -->
