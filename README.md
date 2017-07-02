@@ -1,8 +1,10 @@
 TroikaDumper
 =======
-<img src=".github/logo/ic_launcher-web.png" align="left" width="150" alt="TroikaDumper logo" />
+<img src=".github/logo/ic_launcher-web.png" align="left" width="150"/>
 Приложение TroikaDumper позволяет читать, сохранять и восстанавливать записанное состояние памяти карты Тройка.
 
+### Информация
+Оригинайльный пост на [GitHub](https://github.com/gshevtsov/TroikaDumper)
 
 ### Требования
 - смартфон с версией **Android ≥ 4.4** 
