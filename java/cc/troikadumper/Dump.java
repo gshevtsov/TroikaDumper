@@ -127,10 +127,9 @@ public class Dump {
 
         // block#1 bytes#8.5-10.5 (??)
         balance = intval(
-                (byte)(data[1][8]  & 0b00001111),
-                (byte) data[1][9], //  87654321
-                (byte)(data[1][10] & 0b11111000)
-        ) / 200;
+                (byte)(data[1][6]  & 0xFF),
+                (byte) data[1][7]
+        ) / 250;
     }
 
     public void write(Tag tag) throws IOException {
