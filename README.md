@@ -10,7 +10,7 @@ NFC чип должен быть произодства NXP [wikipedia.org/wiki/
 
 ### Инструкция
 
-1. Установите приложение скачав его по ссылке [TroikaDumper.apk](https://github.com/gshevtsov/TroikaDumper/releases/download/0.1/TroikaDumper-0.1.apk)
+1. Установите приложение скачав его по ссылке [TroikaDumper.apk](https://github.com/SlavikMIPT/TroikaDumper/releases/download/0.2/TroikaDumper.apk)
 
 2. Запустите приложение и поднести карту Тройка.   
 Должно отобразится состояние баланса, время последнего прохода и т. д.  
