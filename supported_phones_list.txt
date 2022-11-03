@@ -66,3 +66,4 @@ Lumia 735
 Lumia 810
 Lumia 830
 Lumia 950XL
+Samsung Galaxy A51
